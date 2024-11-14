@@ -1,0 +1,17 @@
+{
+    "name": "codepro/webinar-compro",
+    "description": "Customizable company profile project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WildanMZaki",
+            "email": "wildanmzaki7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require-dev": {
+        "wildanmzaki/wize": "dev-dev"
+    }
+}
